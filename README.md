@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# React Meetups App
+
+Live Demo: https://kind-kirch-af0ed1.netlify.app/
+
+- React
+- Firebase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
